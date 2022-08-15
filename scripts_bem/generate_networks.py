@@ -42,6 +42,6 @@ L = nx.star_graph(len(G))
 mapping = {0:len(G), len(G):0}
 L = nx.relabel_nodes(L, mapping)
 
-nx.write_gpickle(G, 'medium_network_neighbourhood.pickle')
-nx.write_gpickle(K, 'medium_social_neighbourhood.pickle')
-nx.write_gpickle(L, 'medium_social_media.pickle')
+nx.write_gpickle(G, 'network_neighbourhood.pickle')
+nx.write_gpickle(K, 'social_neighbourhood.pickle')
+nx.write_gpickle(L, 'social_media.pickle')

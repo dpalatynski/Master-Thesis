@@ -70,9 +70,9 @@ def calculate_magnetization(graphs, p, q, mc, iterations, coefficients, h):
     return magnetization
 
 
-G = nx.read_gpickle('medium_network_neighbourhood.pickle')
-K = nx.read_gpickle('medium_social_neighbourhood.pickle')
-L = nx.read_gpickle('medium_social_media.pickle')
+G = nx.read_gpickle('network_neighbourhood.pickle')
+K = nx.read_gpickle('social_neighbourhood.pickle')
+L = nx.read_gpickle('social_media.pickle')
 
 graphs = [G, K, None, L]
 h = float(sys.argv[7])
