@@ -32,7 +32,7 @@ Among all sets of parameters, there are some values for which we can observe beh
 
 <img src="https://github.com/dpalatynski/Master-Thesis/blob/main/results/plots/figure4_11.jpg">
 
-To better understand what has been done in these simulations, let us consider a graph below, in which we can see the same simulations but for a higher value of $p$. For lower probability $p < 0.29$, magnetization stabilizes at a high level, which reflects the situation when the final number of electric vehicles has been reached in the society and then it is impossible to enlarge a number of them. This situation blocks the diffusion of innovation on a specific level. However, increasing the value of $p$ such that p ∈ (0.29, 0.35) makes few trajectories crawl to their stable point. For all these values of the probability $p$ there are intersections with trajectories in which the probability of independence is higher. <br> <br>
+To better understand what has been done in these simulations, let us consider a graph below, in which we can see the same simulations but for a higher value of $p$. For lower probability $p < 0.29$, magnetization stabilizes at a high level, which reflects the situation when the final number of electric vehicles has been reached in the society and then it is impossible to enlarge a number of them. This situation blocks the diffusion of innovation on a specific level. However, increasing the value of $p$ such that $p ∈ (0.29, 0.35)$ makes few trajectories crawl to their stable point. For all these values of the probability $p$ there are intersections with trajectories in which the probability of independence is higher. <br> <br>
 
 <img src="https://github.com/dpalatynski/Master-Thesis/blob/main/results/plots/figure4_12.jpg">
 
